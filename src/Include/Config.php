@@ -8,10 +8,10 @@
  ******************************************************************************/
 
 // Database connection constants
-$sSERVERNAME = 'localhost';
-$sUSER = 'cl60-churchcrm';
-$sPASSWORD = 'churchcrm';
-$sDATABASE = 'cl60-churchcrm';
+$sSERVERNAME = '176.32.230.53';
+$sUSER = 'cl60-icmdemo';
+$sPASSWORD = 'icmdemo';
+$sDATABASE = 'cl60-icmdemo';
 
 // Root path of your ChurchCRM installation ( THIS MUST BE SET CORRECTLY! )
 // For example, if you will be accessing from http://www.yourdomain.com/web/churchcrm
